@@ -6,6 +6,7 @@ The ARIES recovery procedure consists of three main steps:
 analysis , redo and undo
 
 [Sample Input](#sample-input)
+[Output](#output)
 
 ## Analysis Table
 
@@ -36,3 +37,6 @@ write_item,T3,A,30
 write_item,T3,D,25
 crash
 ```
+
+## Output
+![alt](https://github.com/AshwiniWala/AriesCode/blob/main/ARIESoutput.png)
